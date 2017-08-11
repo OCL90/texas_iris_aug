@@ -1,0 +1,22 @@
+// Place all the styles related to the LandPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.bg-green{
+    background-color: #526B4D;
+}
+
+.text-center{
+    margin-top: 400px;
+    background-color: #e7ebd4;
+}
+
+.bg-green .text-center h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 70px;
+}
+
+.bg-green .text-center h4{
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+}
